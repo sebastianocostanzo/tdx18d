@@ -1,0 +1,10 @@
+{
+  "orgName": "tdx18d - Beta Test Org",
+  "edition": "Developer",
+  "orgPreferences" : {
+    "enabled": [
+      "S1DesktopEnabled",
+      "ChatterEnabled"
+    ]
+  }
+}
